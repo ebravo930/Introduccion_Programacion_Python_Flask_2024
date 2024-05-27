@@ -30,14 +30,14 @@ Este es un proyecto simple que muestra cómo crear una página web utilizando Fl
 
 ## Uso
 1. Ejecuta la aplicación:
-     ```bash
+```bash
    python app.py
    ```
 2. Abre tu navegador web y ve a http://127.0.0.1:5000/.
 
 ## Estructura de Archivos
-app.py: Este es el archivo principal de la aplicación Flask donde se configuran las rutas y se ejecuta el servidor.
-templates/index.html: Este archivo contiene la plantilla HTML de la página de inicio, mejorada con Bootstrap para una interfaz más atractiva.
+- app.py: Este es el archivo principal de la aplicación Flask donde se configuran las rutas y se ejecuta el servidor.
+- templates/index.html: Este archivo contiene la plantilla HTML de la página de inicio, mejorada con Bootstrap para una interfaz más atractiva.
 
 ## Características
 - Flask: Utilizado como el framework web principal.
